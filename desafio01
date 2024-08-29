@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 01</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Nerko+One&family=SUSE:wght@100..800&family=Sevillana&display=swap');
+        body{
+            font-family:Sevillana, Arial, Helvetica, sans-serif ;
+            font-size: 16px;
+            }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        </style>
+        
+        
+</head>
+<body>
+    <h1>Desafio das Mensagens</h1>
+    <p>&#42Um</p>
+    <p>&#42&#42 Dois</p>
+    <p>&#42&#42&#42 Tres</p>
+    <p>&#42&#42&#42&#42 Quatro</p>
+    <br>
+    <p>&#42&#42&#42&#42 Quatro</p>
+    <p>&#42&#42&#42 Tres</p>
+    <p>&#42&#42 Dois</p>
+    <p>&#42Um</p>
+
+</body>
+</html>
