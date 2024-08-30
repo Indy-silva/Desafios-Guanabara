@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio das tags</title>
+    <link rel="shortcut icon" href="img/favicon1.ico" type="image/x-icon">
+    <style>
+        p{cursor: default;}
+    </style>
+</head>
+<body>
+
+    <h1>Tags em HTML</h1>
+    <h4>Em HTML5, podemos inserir os elementos da lista a seguir. Passe o mouse sobre os termos para descobrir qual tag deverá utilizar em cada caso.</h4>
+
+    <ul>
+        <li><u><p>Parágrafos</p></u></li>
+        <li><u><p>Títulos</p></u></li>
+        <li><u><p>Imagens</p></u></li>
+        <li><u><p>Abreviações</p></u></li>
+        <li><u><p>Códigos-fonte</p></u></li>
+        <li><u><p>Listas numeradas</p></u></li>
+        <li><u><p>Listas com demarcadores</p></u></li>
+    </ul>
+
+</body>
+</html>
